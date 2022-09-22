@@ -1,0 +1,50 @@
+.makePayment{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container-div{
+  width: 50%;
+  height: 460px;
+  background-color: cadetblue;
+  border-radius: 10px;
+}
+
+.sub-div{
+  width: 90%;
+  padding: 10px;
+  text-align: center;
+}
+
+.sub-div h1{
+  color: aliceblue;
+  color: #c8e8ff;
+}
+
+.sub-div h5{
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  margin: 35px 0;
+}
+
+.radioStyle{
+  display: inline-block;
+  color: #10442a;
+  font-weight: bold;
+  margin-right: 11px;
+  font-size: 25px;
+}
+
+.payment-btn Button{
+  color: #009688;
+}
+
+.alert-style {
+  position: absolute!important;
+  top: 19px;
+  right: 40px;
+  width: 500px;
+}
